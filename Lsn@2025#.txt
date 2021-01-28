@@ -1,0 +1,9 @@
+for row down
+ <div className="row"></div>  
+
+for line
+<div className="panel panel-default" />
+
+for space
+&nbsp; &nbsp;
+
